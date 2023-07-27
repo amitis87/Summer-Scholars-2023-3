@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
     @IBAction func buttonTapped(_ sender: UIButton) {
 fact1.text = "I like cats."
-               fact2.text = "I used to have two chicks."
+               fact2.text = "I used to have two baby chicks."
                fact3.text = "My favorite color is red."
     }
 }

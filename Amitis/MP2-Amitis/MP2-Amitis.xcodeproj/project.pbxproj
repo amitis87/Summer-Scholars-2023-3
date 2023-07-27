@@ -16,6 +16,10 @@
 		70BB33362A683D8000E96594 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70BB33342A683D8000E96594 /* LaunchScreen.storyboard */; };
 		70BB333E2A683F4A00E96594 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BB333D2A683F4A00E96594 /* ViewController2.swift */; };
 		70BB33402A683F8600E96594 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BB333F2A683F8600E96594 /* ViewController3.swift */; };
+		70DCC7312A72C5D200DB8B67 /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70DCC7302A72C5D200DB8B67 /* ViewController5.swift */; };
+		70DCC7332A72C5FF00DB8B67 /* ViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70DCC7322A72C5FF00DB8B67 /* ViewController6.swift */; };
+		70DCC7352A72C61900DB8B67 /* ViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70DCC7342A72C61900DB8B67 /* ViewController7.swift */; };
+		70DCC7372A72C62F00DB8B67 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70DCC7362A72C62F00DB8B67 /* ViewController8.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +34,10 @@
 		70BB33372A683D8000E96594 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70BB333D2A683F4A00E96594 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		70BB333F2A683F8600E96594 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		70DCC7302A72C5D200DB8B67 /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
+		70DCC7322A72C5FF00DB8B67 /* ViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController6.swift; sourceTree = "<group>"; };
+		70DCC7342A72C61900DB8B67 /* ViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController7.swift; sourceTree = "<group>"; };
+		70DCC7362A72C62F00DB8B67 /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				70BB332B2A683D7F00E96594 /* SceneDelegate.swift */,
 				70BB332D2A683D7F00E96594 /* ViewController.swift */,
 				70BB332F2A683D7F00E96594 /* Main.storyboard */,
+				70DCC7362A72C62F00DB8B67 /* ViewController8.swift */,
+				70DCC7342A72C61900DB8B67 /* ViewController7.swift */,
+				70DCC7322A72C5FF00DB8B67 /* ViewController6.swift */,
+				70DCC7302A72C5D200DB8B67 /* ViewController5.swift */,
 				7083ECBE2A699699008F54ED /* ViewController4.swift */,
 				70BB333D2A683F4A00E96594 /* ViewController2.swift */,
 				70BB333F2A683F8600E96594 /* ViewController3.swift */,
@@ -152,7 +164,11 @@
 				70BB332E2A683D7F00E96594 /* ViewController.swift in Sources */,
 				70BB333E2A683F4A00E96594 /* ViewController2.swift in Sources */,
 				70BB332A2A683D7F00E96594 /* AppDelegate.swift in Sources */,
+				70DCC7332A72C5FF00DB8B67 /* ViewController6.swift in Sources */,
+				70DCC7352A72C61900DB8B67 /* ViewController7.swift in Sources */,
+				70DCC7372A72C62F00DB8B67 /* ViewController8.swift in Sources */,
 				70BB332C2A683D7F00E96594 /* SceneDelegate.swift in Sources */,
+				70DCC7312A72C5D200DB8B67 /* ViewController5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
